@@ -2,7 +2,7 @@
 
 ###### 1. How many students from each different class responded to the survey?
 
-![]("assets/Screenshot_2023-02-13 at 2.20.00 PM.png")
+![](assets/Screenshot 2023-02-13 at 2.25.52 PM.png)
 
 ###### 2. What are the gender percentages?
 
