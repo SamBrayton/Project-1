@@ -41,7 +41,7 @@ For each course, men made up the majority of the classes (>50%). Intro to IT had
 
 ![](assets/Pic7.png)
 
-Of the 218 students who responded to the survey, only 42 were women. Only 37 of those females were under the age of 25. Upon further analysis only 19 females under the age of 25 are enrolled in an IT related degree program. This chart displays the ethinicity of those 19 women where the majority are Asain, multi-racial, hispanic, or latino. Meanwhile, only 10.59% were white/caucasion.
+Of the 218 students who responded to the survey, only 42 were women. Upon further analysis, only 19 women were under 25 and enrolled in an IT related degree program. This chart displays the ethinicity of those 19 women where the majority are Asain, multi-racial, hispanic, or latino. Meanwhile, only 10.59% were white/caucasion.
 
 ![](assets/Pic8.png)
 
